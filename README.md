@@ -1,5 +1,9 @@
-
-# EscapeFromTarkov-Trainer
+** zupercb notes **
+	
+	this is not my work, i am just archiving it for educational purposes.
+	credit to the original authors written down below.
+	
+** end notes **
 
 *I'm not responsible for any consequences that result from using this code. BattleState / BattlEye will ban you if you try to use it 'live'.*
 
